@@ -1,0 +1,21 @@
+
+
+Combination(Distinct value): https://leetcode.com/problems/subsets/
+Combination(with repitition): https://leetcode.com/problems/subsets-ii/
+Analysis: https://leetcode.wang/leetCode-90-SubsetsII.html
+
+
+Permutation(Distinct value): https://leetcode.com/problems/permutations/, https://leetcode.com/problems/permutation-sequence/
+Permutation(with repitition): https://leetcode.com/problems/permutations-ii/
+
+
+Combination with permutation: https://leetcode.com/problems/letter-tile-possibilities/
+
+Permutation P(N, k) = n!/(n-k)!
+
+Permutation with duplicates = n!/(a!*b!*c!) where a b c stands for duplicates count
+
+Palindrome with permutation: https://leetcode.com/problems/palindrome-permutation-ii
+
+Next permutation: https://leetcode.com/problems/find-permutation
+
